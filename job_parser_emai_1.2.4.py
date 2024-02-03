@@ -118,7 +118,7 @@ for initial_url in initial_urls:
                             subject=f"Levko Kravchuk Network Administrator | System Administrator by DevOps Technology | Tier1 support engineer at {company_names[0]}",
                             body=HTMLBody(body + signature),
 ##FOR DEBAUG ADD to CC                            to_recipients=[Mailbox(email_address=email_address)],
-##                           cc_recipients=[Mailbox(email_address='leo2008k@gmail.com')]
+##                           cc_recipients=[Mailbox(email_address='xxxx@i.ua')]
 
                             to_recipients=[Mailbox(email_address=email_address)]
 
