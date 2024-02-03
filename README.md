@@ -5,5 +5,5 @@ This WEB crauler is for job parser
 Pre requirements, Chrome browser.
 requirements.txt
 
-change url accoringly.
+change url, emails accoringly.
 It works only with job bank web site (https://www.jobbank.gc.ca/)
