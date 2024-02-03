@@ -1,5 +1,5 @@
 # Canada_Job_bank_parser
-This WEB crauler is for job parser
+This WEB crawler is for job parser
 
 
 Pre requirements, Chrome browser.
